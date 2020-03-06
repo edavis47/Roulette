@@ -1,0 +1,11 @@
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\bin\Debug\netcoreapp3.1\RouletteGame.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\bin\Debug\netcoreapp3.1\RouletteGame.deps.json
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\bin\Debug\netcoreapp3.1\RouletteGame.runtimeconfig.json
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\bin\Debug\netcoreapp3.1\RouletteGame.runtimeconfig.dev.json
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\bin\Debug\netcoreapp3.1\RouletteGame.dll
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\bin\Debug\netcoreapp3.1\RouletteGame.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\obj\Debug\netcoreapp3.1\RouletteGame.csprojAssemblyReference.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\obj\Debug\netcoreapp3.1\RouletteGame.AssemblyInfoInputs.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\obj\Debug\netcoreapp3.1\RouletteGame.AssemblyInfo.cs
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\obj\Debug\netcoreapp3.1\RouletteGame.dll
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\RouletteGame\obj\Debug\netcoreapp3.1\RouletteGame.pdb
